@@ -27,8 +27,8 @@ Je suis un étudiant ingénieur en Data Science passionné par le développement
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="R" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
-<img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
+<img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
@@ -40,26 +40,35 @@ Je suis un étudiant ingénieur en Data Science passionné par le développement
 
 #
 
-### 🚀 Projets en Cours
+### 🚀 Projets Réalisés
 
-- **Moroccult** - Application web développée pour la Coupe du Monde
-- **Transport Delay Prediction** - Projet Data Science utilisant les LLM pour prédire les retards de transport
-- **Déploiement Docker/Kubernetes** - Projet de groupe sur l'orchestration de conteneurs
+- **Chatbot RH Intelligent** - Architecture RAG pour automatiser les réponses aux questions RH
+- **Analyse de Sentiment sur les Critiques IMDB** - Classification de sentiments avec Machine Learning
+- **Deep Learning pour prédiction fiable de pannes Kubernetes** - Modèle prédictif pour anticiper les défaillances système
 
 #
 
-### 📜 Certifications
+### 📜 Certifications et Activités Extra-Académiques
 
+**Certifications**
+- **Machine Learning** - Udemy
 - **Power BI Desktop & Service** - Udemy (Hands-on Guide to Mastering Power BI)
-- **Math & Maroc Olympiad** - Certificat de participation (2023)
+- **Web Scraping** - DataCamp
+- **Intégration de compétences techniques** - DataCamp
+
+**Compétitions et Engagements**
+- 🏆 **1ère place** - Think To Deploy Competition (1ère édition avec Safran)
+- 🥇 **Chef de l'équipe gagnante** - League Data Science Competition
+- 🎖️ **Math & Maroc Olympiad** - Certificat de participation (2023)
+- 💡 Participation active à des hackathons et compétitions de Data Science
 
 #
 
 ### 📊 Stats
 
-![Mouad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mouad-prog&show_icons=true&theme=gruvbox)
+![Mouad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mouad-prog&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Mouad-prog&theme=gruvbox&border_radius=4.5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mouad-prog&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
 
 #
 
@@ -68,7 +77,7 @@ Je suis un étudiant ingénieur en Data Science passionné par le développement
 - **Email professionnel**: elasri.mouad.engineer@gmail.com
 - **Email académique**: elasri.mouad@ine.inpt.ac.ma
 - **LinkedIn**: [Mouad El Asri](https://www.linkedin.com/in/mouad-el-asri-24332b32b/)
-- **Localisation**: Tanger, Maroc 🇲🇦
+- **Localisation**: Tanger / Rabat, Maroc 🇲🇦
 
 ---
 
