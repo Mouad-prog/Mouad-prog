@@ -15,14 +15,6 @@ Je suis un étudiant ingénieur en Data Science passionné par le développement
 
 ---
 
-### 🎓 Parcours Académique
-
-- **INPT** - Ingénierie Data Science (2024-2027) - En cours
-- **LM6E** - Classes Préparatoires (2022-2024)
-- **Bac Sciences Mathématiques** - Lycée Abdelkhalek Torres, Tanger (2022)
-
----
-
 ### 🧰 Langages et Outils
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
@@ -71,20 +63,6 @@ Je suis un étudiant ingénieur en Data Science passionné par le développement
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mouad-prog&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
 
 #
-
-### 📫 Contact
-
-- **Email professionnel**: elasri.mouad.engineer@gmail.com
-- **Email académique**: elasri.mouad@ine.inpt.ac.ma
-- **LinkedIn**: [Mouad El Asri](https://www.linkedin.com/in/mouad-el-asri-24332b32b/)
-- **Localisation**: Tanger / Rabat, Maroc 🇲🇦
-
----
-
-<details>
- <summary><h3>👨‍💻 Mon Parcours</h3></summary>
-   J'ai commencé mon parcours en tant qu'étudiant en classes préparatoires au Lycée Mohammed VI d'Excellence, avec une passion d'apprendre tout ce que je pouvais sur la programmation, les mathématiques et la data science. Après deux années intensives de prépa, j'ai intégré l'INPT pour me spécialiser en Data Science. Depuis, je construis des projets qui allient développement web, machine learning et analyse de données. Mon objectif est de continuer à développer mes compétences techniques tout en résolvant des problèmes concrets à travers le code et l'intelligence artificielle.
-</details>
 
 <!--
 **Mouad-prog/Mouad-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
