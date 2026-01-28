@@ -1,5 +1,5 @@
 # 👨‍💻 Mouad El Asri
-
+ 
 **`Data Science Engineer | Developer | Problem Solver`**
 
 Je suis un étudiant ingénieur en Data Science passionné par le développement et l'intelligence artificielle. Je construis des projets depuis les fondations, de la planification et conception jusqu'à la résolution de problèmes concrets avec du code. Actuellement en 2ème année à l'INPT (Institut National des Postes et Télécommunications), je me spécialise dans la Data Science et le Machine Learning.
